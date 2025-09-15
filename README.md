@@ -1,6 +1,6 @@
 # Power BI Dashboard Portfolio
 
-This repository contains the two PowerBI Projects that was done in conjunction with the youtube tutorial by Luke Barousse for PowerBI Beginners.
+This repository contains the two PowerBI Projects that was done in conjunction with the youtube tutorial by Luke Barousse for PowerBI Beginners. It also includes other YouTube project tutorials done for practice.
 
 ---
 
