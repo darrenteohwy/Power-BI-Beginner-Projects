@@ -62,7 +62,7 @@ Version 2.0 of the Data Jobs Dashboard streamlines the analysis into a highly fo
 
 ## 📌 Project Summary
 ![Bob's Bicycle Rental Main Dashboard](images/Bike%20Main%20Dashboard.png)
-This project delivers an interactive **Power BI dashboard** for **Bob's Bicycle Rental**, built to analyze and visualize business performance metrics. The dashboard highlights:
+This project delivers an interactive **Power BI dashboard** for **Bob's Bicycle Rental**, built to analyze and visualize business performance metrics. The database was created using SQL Server and connected to PowerBI. The dashboard highlights:
 
 * **Hourly Revenue Analysis**
 * **Profit and Revenue Trends**

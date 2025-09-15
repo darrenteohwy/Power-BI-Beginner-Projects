@@ -5,7 +5,7 @@
 
 ## 📌 Project Summary
 
-This project delivers an interactive **Power BI dashboard** for **Bob's Bicycle Rental**, built to analyze and visualize business performance metrics. The dashboard highlights:
+This project delivers an interactive **Power BI dashboard** for **Bob's Bicycle Rental**, built to analyze and visualize business performance metrics. The database was created using SQL Server and connected to PowerBI. The dashboard highlights:
 
 * **Hourly Revenue Analysis**
 * **Profit and Revenue Trends**
@@ -67,6 +67,7 @@ The goal is to support informed decision-making, identify profitable time period
 ## 🛠️ Skills & Tools Applied
 
 * **Power BI**: Interactive dashboard design, DAX measures, KPI tracking.
+* **SQL Server**: Learnt how to set up a database and connect SQL Server with PowerBI.
 * **Data Cleaning & Modeling**: Prepared data for seasonal, hourly, and demographic breakdowns.
 * **Business Analytics**: Identified profitability patterns and rider behaviors.
 * **Data Storytelling**: Translated raw metrics into actionable insights for strategic decisions.
